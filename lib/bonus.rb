@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy[:Montague][:hero][:atatus] = "alive"
+  epic_tragedy[:Montague][:hero][:status] = "alive"
 
   
 
