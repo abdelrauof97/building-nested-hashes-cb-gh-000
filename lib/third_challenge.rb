@@ -18,7 +18,7 @@ def third_challenge
         [
           name : {"Steven"},
           age : {"30"},
-          attitude : {}
+          attitude : {"confused"}
         ],
         [
           name : {},
