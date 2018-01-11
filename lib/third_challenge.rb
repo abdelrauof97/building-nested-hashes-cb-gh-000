@@ -21,7 +21,9 @@ def third_challenge
         attitude : {}
         ],
         [
-          
+          name : {},
+          age : {},
+          attitude : {}
         ]
       ]
    }, 
