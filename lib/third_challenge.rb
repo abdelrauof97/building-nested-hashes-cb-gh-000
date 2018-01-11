@@ -22,7 +22,7 @@ def third_challenge
         ],
         [
           name : {"Nurse"},
-          age : {},
+          age : {"44"},
           attitude : {}
         ]
       ]
