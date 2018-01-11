@@ -15,9 +15,9 @@ def third_challenge
         status : {"alive"}
       },
       :hero_friends => [
-        name
-        age
-        attitude
+        name : {},
+        age : {},
+        attitude : {}
        ]
    }, 
    :capulet => {
