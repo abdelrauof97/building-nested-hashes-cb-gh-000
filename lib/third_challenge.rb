@@ -21,7 +21,7 @@ def third_challenge
           attitude : {"confused"}
         ],
         [
-          name : {},
+          name : {"Nurse"},
           age : {},
           attitude : {}
         ]
