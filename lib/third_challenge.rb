@@ -42,9 +42,16 @@ def third_challenge
         status : {"alive"}
       },
       :heroine_friends => [
-        name : {},
-        age : {},
-        attitude : {}
+        [
+          name : {},
+          age : {},
+          attitude : {}
+        ],
+        [
+          name : {},
+          age : {},
+          attitude : {}
+        ]
       ]
    }
   }
